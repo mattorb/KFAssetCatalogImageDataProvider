@@ -1,5 +1,3 @@
-// mattorb.com
-
 import Kingfisher
 import SwiftUI
 
